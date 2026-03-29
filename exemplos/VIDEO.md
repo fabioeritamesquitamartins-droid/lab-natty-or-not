@@ -1,20 +1,24 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
-
-## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
-
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
-
-## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
-
-## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+Devocional de 1 Minuto: Quando Deus Está em Silêncio
+📒 Descrição
+Este projeto consiste na criação de um devocional cristão curto (até 1 minuto) utilizando Inteligência Artificial Generativa, com foco em alto impacto emocional e retenção para redes sociais como YouTube Shorts, Reels e TikTok.
+🤖 Tecnologias Utilizadas
+    • ChatGPT (roteiro)
+    • ElevenLabs (narração por IA)
+    • Gemini (thumbnail/imagem)
+    • Movavi (edição de vídeo curto)
+🧐 Processo de Criação
+    1. Escolha de tema emocional com alto engajamento
+    2. Criação de roteiro curto e direto com base bíblica
+    3. Adaptação para formato de até 1 minuto
+    4. Geração de voz com IA
+    5. Edição dinâmica para retenção
+🚀 Resultados
+    • Devocional curto pronto para redes sociais
+    • Conteúdo altamente compartilhável
+    • Estrutura otimizada para retenção e impacto emocional
+💭 Reflexão
+Criar um conteúdo profundo em apenas 1 minuto exigiu precisão e clareza. A IA ajudou na estrutura, mas o impacto depende da escolha certa das palavras.
 
 [LINK PARA O VÍDEO AQUI]()
 
-## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+
