@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Devocional de 1 Minuto: Quando Deus Está em Silêncio
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um devocional cristão curto (até 1 minuto), utilizando Inteligência Artificial Generativa, com foco em alto impacto emocional e retenção para redes sociais como YouTube Shorts, Reels e TikTok.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (roteiro)
+- ElevenLabs (narração por IA)
+- Gemini (criação de thumbnail/imagem)
+- Movavi (edição de vídeo curto)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O desenvolvimento do projeto seguiu as seguintes etapas:
+
+1. Escolha de um tema emocional com alto potencial de engajamento
+2. Criação de um roteiro curto, direto e com base bíblica
+3. Adaptação do conteúdo para o formato de até 1 minuto
+4. Geração de narração com voz sintética humanizada
+5. Edição dinâmica com foco em retenção e impacto visual
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Devocional curto pronto para publicação
+- Conteúdo altamente compartilhável
+- Estrutura otimizada para retenção e engajamento
+- Aplicável em múltiplas plataformas digitais
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar um conteúdo profundo em apenas 1 minuto exigiu precisão, clareza e intencionalidade. A Inteligência Artificial foi essencial para estruturar o conteúdo, mas o refinamento humano foi decisivo para garantir conexão emocional e autenticidade.
